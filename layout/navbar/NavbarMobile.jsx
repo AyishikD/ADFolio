@@ -1,5 +1,4 @@
 import React from "react";
-import { DiTechcrunch } from "react-icons/di";
 import { BsFillLightningChargeFill } from "react-icons/bs";
 import { TbBulbFilled } from "react-icons/tb";
 import { GiHamburgerMenu } from "react-icons/gi";
