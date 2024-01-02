@@ -4,7 +4,7 @@ export const ProjectsData = [
         liveUrl: "https://shopify-silk.vercel.app/",
         githubUrl: "https://github.com/AyishikD/shopify",
         projectImage: {
-            imageUrl: "/images/project1.png"
+            imageUrl: "/images/Project1.png"
         },
         techs: ["NextJS", "TailwindCSS", "Sanity CMS", "ShadCN/UI", "Stripe"]
     },
@@ -13,7 +13,7 @@ export const ProjectsData = [
         liveUrl: "https://adapp.vercel.app/",
         githubUrl: "https://github.com/AyishikD/ADapp",
         projectImage: {
-            imageUrl: "/images/project2.png"
+            imageUrl: "/images/Project2.png"
         },
         techs: ["NextJS", "NodeJs", "MongoDB", "ShadCN/UI", "Clerk","UploadThing","TailwindCSS"]
     },
@@ -22,7 +22,7 @@ export const ProjectsData = [
         liveUrl: "https://65662e2064c6a91e8f527797--effortless-seahorse-921368.netlify.app/",
         githubUrl: "https://github.com/AyishikD/Crowds",
         projectImage: {
-            imageUrl: "/images/project3.png"
+            imageUrl: "/images/Project3.png"
         },
         techs: ["ReactJS", "CSS", "Solidity"]
     }
